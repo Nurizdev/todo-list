@@ -1,0 +1,45 @@
+li{
+list-style: none;
+margin-top: 30px;
+}
+
+.input{
+    padding: 8px 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    outline: none;
+}
+.add{
+
+padding: 9px 15px;
+border: none;
+background: orange;
+color: white;
+border-radius: 10px;
+margin-left: 10px;
+}
+.delBtn{
+    padding: 9px 10px;
+    border: none;
+    background: rgb(8, 150, 129);
+    color: white;
+    border-radius: 10px;
+
+}
+
+.editBtn{
+    padding: 9px 10px;
+    border: none;
+    background: rgb(8, 150, 129);
+    color: white;
+    border-radius: 10px;
+    
+}
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
